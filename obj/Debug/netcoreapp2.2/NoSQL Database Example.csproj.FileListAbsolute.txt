@@ -1,0 +1,11 @@
+C:\Users\Shehryar Khan\Documents\Visual Studio Code Projects\NoSQL Database Example\obj\Debug\netcoreapp2.2\NoSQL Database Example.csprojAssemblyReference.cache
+C:\Users\Shehryar Khan\Documents\Visual Studio Code Projects\NoSQL Database Example\obj\Debug\netcoreapp2.2\NoSQL Database Example.csproj.CoreCompileInputs.cache
+C:\Users\Shehryar Khan\Documents\Visual Studio Code Projects\NoSQL Database Example\obj\Debug\netcoreapp2.2\NoSQL Database Example.AssemblyInfoInputs.cache
+C:\Users\Shehryar Khan\Documents\Visual Studio Code Projects\NoSQL Database Example\obj\Debug\netcoreapp2.2\NoSQL Database Example.AssemblyInfo.cs
+C:\Users\Shehryar Khan\Documents\Visual Studio Code Projects\NoSQL Database Example\bin\Debug\netcoreapp2.2\NoSQL Database Example.deps.json
+C:\Users\Shehryar Khan\Documents\Visual Studio Code Projects\NoSQL Database Example\bin\Debug\netcoreapp2.2\NoSQL Database Example.runtimeconfig.json
+C:\Users\Shehryar Khan\Documents\Visual Studio Code Projects\NoSQL Database Example\bin\Debug\netcoreapp2.2\NoSQL Database Example.runtimeconfig.dev.json
+C:\Users\Shehryar Khan\Documents\Visual Studio Code Projects\NoSQL Database Example\bin\Debug\netcoreapp2.2\NoSQL Database Example.dll
+C:\Users\Shehryar Khan\Documents\Visual Studio Code Projects\NoSQL Database Example\bin\Debug\netcoreapp2.2\NoSQL Database Example.pdb
+C:\Users\Shehryar Khan\Documents\Visual Studio Code Projects\NoSQL Database Example\obj\Debug\netcoreapp2.2\NoSQL Database Example.dll
+C:\Users\Shehryar Khan\Documents\Visual Studio Code Projects\NoSQL Database Example\obj\Debug\netcoreapp2.2\NoSQL Database Example.pdb
